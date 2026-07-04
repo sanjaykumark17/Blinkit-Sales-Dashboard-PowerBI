@@ -17,9 +17,6 @@ This project analyzes Blinkit sales data using Power BI to provide business insi
 - Sales by Location
 - Interactive Filters
 
-## Project Screenshot
-(Add your dashboard screenshot here)
-
 ## Skills Demonstrated
 - Data Cleaning
 - Data Modeling
